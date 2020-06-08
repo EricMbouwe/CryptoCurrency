@@ -26,4 +26,7 @@ Things you may want to cover:
 # Create the app command
 rails new currency --webpack=react
 
-# CryptoCurrency
+# CryptoCurrency api
+
+# url = 'https://api.coinmarketcap.com/v1/tiket/'
+# url = "https://pro.coinmarketcap.com/migrate/"
